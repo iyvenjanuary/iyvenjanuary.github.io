@@ -1,1 +1,1 @@
-# (https://ani.sidestore.io)
+# https://ani.sidestore.io
